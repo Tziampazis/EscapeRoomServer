@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="arduino">
+    <archive path="/Users/mihaimarin/Downloads/arduino.jar" />
+  </library>
+  <library name="jSerialComm-2.3.0">
+    <archive path="/Users/mihaimarin/Downloads/jSerialComm-2.3.0.jar" />
+  </library>
+  <library name="jlayer-1.0.1">
+    <archive path="/Users/mihaimarin/Downloads/jlayer-1.0.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
